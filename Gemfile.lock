@@ -275,7 +275,7 @@ GEM
     mimemagic (0.3.4)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    minitest (5.14.0)
+    minitest (5.14.1)
     moneta (1.0.0)
     mongo (2.11.2)
       bson (>= 4.6.0, < 5.0.0)
@@ -474,7 +474,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    searchkick (4.3.0)
+    searchkick (4.3.1)
       activemodel (>= 5)
       elasticsearch (>= 6)
       hashie
@@ -525,7 +525,7 @@ GEM
       typhoeus (~> 0.6, >= 0.6.8)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
-    tzinfo (1.2.6)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
